@@ -1,0 +1,16 @@
+table,tr, td,th{
+  border: 3px solid black;
+}
+table, tr, td, th{
+  background-color: yellow;
+}
+h1{
+  color:Purple;
+}
+body{
+  background-image:
+    url(https://krmiller.com/wp-content/uploads/2021/11/John-Hancock-HS_4.jpg);
+  background-repeat:no repeats;
+  background-attachment: Fixed;
+  background-size: cover;
+}
